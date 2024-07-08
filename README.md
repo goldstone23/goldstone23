@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<a href="https://app.daily.dev/parassaini"><img src="https://api.daily.dev/devcards/v2/1txKbYmHNr1PZPzPAGqQm.png?type=wide&r=acl" width="652" alt="Paras Saini's Dev Card"/></a>
 
 <h1 align="center">Hi 👋, I'm Paras Saini</h1>
 <h3 align="center">Code, paint, write, repeat.</h3>
