@@ -1,5 +1,4 @@
-<a href="https://app.daily.dev/parassaini"><img src="https://api.daily.dev/devcards/v2/1txKbYmHNr1PZPzPAGqQm.png?type=wide&r=acl" width="652" alt="Paras Saini's Dev Card"/></a>
-
+<a href="https://app.daily.dev/parassaini"><img src="https://api.daily.dev/devcards/v2/1txKbYmHNr1PZPzPAGqQm.png?type=default&r=ej2" width="356" alt="Paras Saini's Dev Card"/></a>
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">Code, paint, write, repeat.</h3>
 - 🔭 I’m currently working on [web design](https://www.figma.com/file/8YzEfDm1ePKCiPrP8slx97?type=design)
